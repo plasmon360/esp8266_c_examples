@@ -1,0 +1,3 @@
+Getting a static IP:
+
+on my router, I reservered an ip for esp8266. This wil make sure that esp8266 gets the same ip all the time.
